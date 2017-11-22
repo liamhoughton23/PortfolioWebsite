@@ -1,0 +1,44 @@
+header{
+	color: black;
+}
+p{
+	padding: 10px;
+	font-size: 20px;
+	color: black;
+	margin: 10px;
+}
+body{
+	background-image: url(faded.jpg)
+
+}
+.gang{
+   height: 450px;
+   width: 300px;
+   float: right;
+   margin-right: 20px;
+   border-style: solid;
+   border-width: 3px;
+   border-color: black;
+   padding: 20;
+   box-shadow: 5px 5px 5px 5px
+
+}
+.gangshit{
+	padding: 20px;
+	border-style: double;
+	border-width: 3px;
+	border-color: black;
+	background-color: white;
+	margin: 20px;
+
+}
+ul li a {
+	color: black;
+}
+h2{
+	color: black;
+	margin: 10px;
+}
+a{
+	color: black;
+}
